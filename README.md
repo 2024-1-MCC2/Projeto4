@@ -6,7 +6,7 @@
 
 # Escaambo.
 
-## Integrantes: <a href="https://www.linkedin.com/in/maria-kassandra-alves-a6b406284/">Maria Kassandra Alves</a>, <a href="https://www.linkedin.com/in/leonardoferreiraa/">Leonardo Ferreira da Silva</a>
+## Integrantes: <a href="https://www.linkedin.com/in/maria-kassandra-alves-a6b406284/">Maria Kassandra Alves</a>, <a href="https://www.linkedin.com/in/leonaardoferreira/">Leonardo Ferreira da Silva</a>
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/jésus-gomes-83b769108/">Jésus Gomes</a>,  <a href="#">Joao Pedro da Costa Pinto</a>
 # Começando um projeto web full stack React
 
