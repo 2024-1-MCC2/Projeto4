@@ -12,15 +12,11 @@
 
 ## Descrição
 
-O projeto foi desenvolvido para a Secretaria de Educação de Embu das Artes, um pequeno município da região metropolitana de São Paulo. Seu propósito é intermediar para os munícipes que não conseguiram concluir seus estudos dentro do prazo adequado, junto ao programa EJA (Educação de Jovens e Adultos). Ele visa também facilitar que os estudantes encontrem a escola mais próxima de suas residências, concluam seus estudos, reintegrem-se ao mercado de trabalho e contribuam para o aumento do índice de alfabetismo no município.
+Projeto visa ajudar a sociedade a obter conhecimento de forma gratuita, através da permuta de aulas de assuntos diversos. Assim, transformando o jeito que se aprende e ensina habilidades novas. 
 
 ### Objetivos:
 
-- Captar novos estudantes
-- Explicar brevemente sobre os progamas e projetos oferidos
-- Demonstrar os beneficios da retomada dos estudos.
-- Permitir que o estudante busque ajuda para assistencia nos estudos.
-- Permitir que o estudante encontre links úteis para serviços relacionados a lesgislação, projetos, materiais pedagógicos entre outros.
+O projeto tem como objetivo alcançar pessoas de diversas camadas sociais, especialmente aquelas com recursos limitados, mas que buscam conhecimento em diversas áreas e com habilidades para compartilhar. Ele é direcionado àqueles que estão em constante busca por aprimoramento e desejam compartilhar suas experiências e competências adquiridas ao longo da vida. Ao mesmo tempo, busca-se contribuir para aumentar o número de falantes fluentes de inglês no Brasil, dado que apenas 1% da população domina o idioma, conforme dados do G1. Nosso site foi concebido sem fins lucrativos, com o propósito de democratizar o acesso ao conhecimento para todos 
 
 ### Front-end
 
@@ -46,7 +42,7 @@ Para configurar e executar o projeto localmente, siga estas etapas:
 
 1. Clone o repositório do projeto:
    ```sh
-   git clone https://github.com/2024-1-MCC2/Projeto3.git
+   2023-1-MCC2/Projeto4: Projeto 4 (github.com)
    ```
 2. Navegue até a pasta do projeto e instale as dependências:
    ```sh
@@ -56,16 +52,16 @@ Para configurar e executar o projeto localmente, siga estas etapas:
    ```sh
    npm run dev
    ```
-4. Abra o navegador e acesse `http://localhost:3000` para visualizar o site.
+4. Abra o navegador e acesse `http://escaambo.netlify.app` para visualizar o site.
 
 ### Links de interesse
 
 1. Trello:
 ```sh
- Trello https://trello.com/b/FConFlbr/grupo3
+https://trello.com/b/KOPzzAV1/grupo4
 ```
 
 2. Figma:
    ```sh
-   Figma https://www.figma.com/design/XEd2udBwbQIXns6dqJkJWF/PROJETO-EJA?node-id=0-1&t=f8QUoXbhbzVAU40G-0
+   https://www.figma.com/design/ohyAaRV46NAZ53e2lTpRR1/Skamboo?node-id=6-5&t=qsyZbYU22WIYnoFc-0
    ```
